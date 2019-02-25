@@ -12,7 +12,7 @@
   
 
 # What Can You Get
-Geographically Robust Hotspot Detection (GRHD) finds hotspot areas where the concentration of points inside is significantly high.
+Geographically Robust Hotspot Detection (GRHD) finds hotspot areas where the concentration of points inside is significantly high.  
 ![G1](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/image/G1.PNG)  
 See [application domain](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Application-Domain) to see where you can use GRHD.  
 
