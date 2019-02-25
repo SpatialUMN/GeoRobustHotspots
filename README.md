@@ -8,13 +8,13 @@
 * [Code Explanation (Java Diagram)]() 
 * [Case Study]()  
 * [Bug Report](https://github.com/SpatialUMN/GeoRobustHotspots/issues)  
+* [Link to Paper]
   
 
 # What Can You Get
-Elliptical Hotspot Detection (EHD) finds ellipse shaped hotspot areas where the concentration of activities inside is significantly higher
-than the concentration of activities outside.   
-![E1b](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/images/E1b.PNG)  
-See [application domain](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Application-Domain) to see where you can use elliptical hotspot detection
+Geographically Robust Hotspot Detection (GRHD) finds hotspot areas where the concentration of points inside is significantly high.
+![G1](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/image/G1.PNG)  
+See [application domain](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Application-Domain) to see where you can use GRHD.  
 
 # Usage  
 ## Input Data Format  
