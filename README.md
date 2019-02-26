@@ -5,7 +5,7 @@
   * [Download and Run](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#Download-and-Run)  
     * [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)  
     * [Set Variables](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#set-variables) 
-* [Code Explanation - Java Diagram]() 
+* [Code Explanation - Java Diagram](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Java-Class-Diagram) 
 * [Case Study]()  
 * [Bug Report](https://github.com/SpatialUMN/GeoRobustHotspots/issues)  
 * [Link to Paper]()
