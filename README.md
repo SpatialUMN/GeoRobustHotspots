@@ -15,7 +15,7 @@
 Geographically Robust Hotspot Detection (GRHD) finds hotspot areas where the concentration of points inside is significantly high.  
 ![G1](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/image/G1.PNG)  
 See [application domain](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Application-Domain) to see where you can use GRHD.   
-Basic [concepts]() can help better understanding the problem.  
+Basic [concepts](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Basic-Concepts) can help better understanding the problem.  
 
 
 # Usage  
