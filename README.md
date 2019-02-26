@@ -1,5 +1,5 @@
 # Geographically Robust Hotspots Detection  
-* [What Can You Get From Geographically Robust Hotspots Detection](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#what-can-you-get)  
+* [What Can You Get](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#what-can-you-get)  
 * [Usage](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#usage)   
   * [Input Data Format](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#input-data-format)  
   * [Download and Run](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#Download-and-Run)  
@@ -14,7 +14,9 @@
 # What Can You Get
 Geographically Robust Hotspot Detection (GRHD) finds hotspot areas where the concentration of points inside is significantly high.  
 ![G1](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/image/G1.PNG)  
-See [application domain](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Application-Domain) to see where you can use GRHD.  
+See [application domain](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Application-Domain) to see where you can use GRHD.   
+Basic [concepts]() can help better understanding the problem.  
+
 
 # Usage  
 ## Input Data Format  
