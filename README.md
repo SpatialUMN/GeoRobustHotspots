@@ -5,6 +5,7 @@
   * [Download and Run](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#Download-and-Run)  
     * [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)  
     * [Set Variables](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#set-variables) 
+    * [Output Result](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#output-result)
 * [Code Explanation - Java Diagram](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Java-Class-Diagram) 
 * [Case Study]()  
 * [Bug Report](https://github.com/SpatialUMN/GeoRobustHotspots/issues)  
@@ -28,7 +29,11 @@ We need 1 input file `activity`. It has 3 attributes:
 ## Download and Run  
 ### [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)  
 ### Set Variables   
-Open [`RunGeo.java`](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/src/elliptical/RunElliptic.java) file, change line 6, 7, and 8.  
-`dataset_path` is the path to your activity file.  
-`Method` set Method = 1 if you want to use grid method, set Method = 0 if you need naive method.  
-`step_size` only has effect if you choose naive method. It is the step length used on denominator.   
+Open [`RunGeo.java`](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/src/georobust/RunGeo.java) file, change line 5, 6, and 7.    
+`path` is the path to your activity file.  
+`cellSize` divide the input data into multiple cellsize x cellsize squares.  
+`theta` is the log likelihood ratio threshold.  
+
+### Output Results   
+The output will contain the dataset information, how does the algorithm divide the participate the data, the hotspot result information and the running time.  
+[Here](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/Output) is an outcome example you might see.
