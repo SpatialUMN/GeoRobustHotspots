@@ -7,9 +7,9 @@
     * [Set Variables](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#set-variables) 
     * [Output Result](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/README.md#output-result)
 * [Code Explanation - Java Diagram](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Java-Class-Diagram) 
-* [Case Study]()  
+* [Case Study](https://github.com/SpatialUMN/GeoRobustHotspots/wiki/Case-Study)  
 * [Bug Report](https://github.com/SpatialUMN/GeoRobustHotspots/issues)  
-* [Link to Paper]()
+* [Link to Paper](https://ieeexplore.ieee.org/abstract/document/7395840)
   
 
 # What Can You Get
