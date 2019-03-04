@@ -35,5 +35,5 @@ Open [`RunGeo.java`](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master
 `theta` is the log likelihood ratio threshold.  
 
 ### Output Results   
-The output will contain the dataset information, how does the algorithm divide the participate the data, the hotspot result information and the running time.  
+The output will contain the dataset information, how does the algorithm participate the data, the hotspot result information and the running time.  
 [Here](https://github.com/SpatialUMN/GeoRobustHotspots/blob/master/Output) is an outcome example you might see.
